@@ -1,7 +1,3 @@
-Here’s a README description based on the provided code:
-
----
-
 # Price Detection with SpaCy
 
 This project demonstrates a Python-based approach for detecting and processing price-related information from text using SpaCy, a popular natural language processing library. The code extracts price entities, converts them to numerical values, and constructs queries based on the extracted prices. It handles various price formats and applies filtering based on detected synonyms indicating price ranges.
