@@ -11,7 +11,7 @@ This project demonstrates a Python-based approach for detecting and processing p
 
 ## Installation
 
-Ensure you have Python and SpaCy installed. You will also need the `text2int` library for converting text to numbers. Install the necessary packages using:
+Ensure you have Python and SpaCy installed:
 
 ```bash
 python -m spacy download en_core_web_md
